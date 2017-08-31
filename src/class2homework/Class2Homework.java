@@ -6,9 +6,6 @@ package class2homework;
  */
 public class Class2Homework {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         Object johnObject = new Object();
         Object maryObject = new Object();
