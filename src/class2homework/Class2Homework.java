@@ -6,9 +6,7 @@ package class2homework;
  */
 public class Class2Homework {
 
-    public static void main(String[] args) {
-        Object johnObject = new Object();
-        Object maryObject = new Object();
-    }
-    
+    private String firstName;
+    private String lastName;
+    private int age;
 }
